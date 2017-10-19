@@ -1,4 +1,4 @@
-FROM lgatica/mongod:latest@sha256:acb2ec9f381e148c365409da3a868f60d437b23d37e22017c9c4cf3e44b47d72
+FROM lgatica/mongod:latest@sha256:bbeb0eada89c72b22761cb612f3b3716b016e4be5b3e7baac89616fb3654a200
 
 MAINTAINER Leonardo Gatica <lgatica@protonmail.com>
 
